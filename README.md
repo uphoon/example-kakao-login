@@ -47,6 +47,8 @@ in package.json
 
 ### Customize configuration
 
+See [Github Source](https://github.com/uphoon/example-kakao-login)
+
 See [Vue-Cli Configuration Reference](https://cli.vuejs.org/config/).
 
 See [Kakao Developers](https://developers.kakao.com/docs/latest/ko/kakaologin/common).
